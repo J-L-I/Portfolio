@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
     return  (
-        <div className="border-b pb-10 pt-20" id="about">
+        <div className="border-b-4 pb-10 pt-20 h-screen" id="about">
             <h2 className="text-center text-xl mb-5 underline">A little bit about me</h2>
             <p className="text-center">
                 Welcome and thanks for checking out my website.<br />  I'm a budding software engineer looking for new opportunities.<br />

@@ -7,6 +7,7 @@ import About from './components/about'
 import Contact from './components/contact'
 import Resume from './components/resume'
 import Projects from './components/projects'
+import Skills from './components/skills'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,6 +17,7 @@ function App() {
       <Navbar />
       <Home />
       <About />
+      <Skills />
       <Projects />
       <Resume />
       <Contact />

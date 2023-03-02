@@ -3,7 +3,7 @@ import getForm from './data/action'
 
 function Contact(): JSX.Element {
     return  (
-        <div className="flex flex-col" id="contact">
+        <div className="flex flex-col h-screen pt-20" id="contact">
             <h1 className="flex flex-col justify-center items-center">Contact</h1>
             <div className="flex justify-center items-center">
                 <form action={getForm.getForm} method="POST" className="flex flex-col w-96 md-w-7">

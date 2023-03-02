@@ -6,6 +6,7 @@ function Navbar() {
             <ul className="ml-10 mr-10 flex flex-no-wrap justify-between">
                 <li className="cursor-pointer hover:text-blue-500 font-bold transition duration-200 hover:scale-125"><a href="#home">Home</a></li>
                 <li className="cursor-pointer hover:text-blue-500 font-bold transition duration-200 hover:scale-125"><a href="#about">About</a></li>
+                <li className="cursor-pointer hover:text-blue-500 font-bold transition duration-200 hover:scale-125"><a href="#skills">Skills</a></li>
                 <li className="cursor-pointer hover:text-blue-500 font-bold transition duration-200 hover:scale-125"><a href="#projects">Projects</a></li>
                 <li className="cursor-pointer hover:text-blue-500 font-bold transition duration-200 hover:scale-125"><a href="#experience">Experience</a></li>
                 <li className="cursor-pointer hover:text-blue-500 font-bold transition duration-200 hover:scale-125"><a href="#contact">Contact</a></li>

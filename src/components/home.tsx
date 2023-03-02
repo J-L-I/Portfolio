@@ -3,7 +3,7 @@ import { BsGithub, BsLinkedin } from 'react-icons/bs'
 
 function Home() {
     return  (
-        <div className="flex items-center justify-center flex-col text-center pt-20 pb-6 border-b h-96" id="home">
+        <div className="flex items-center justify-center flex-col text-center pt-20 pb-6 border-b-4 h-screen" id="home">
             <h2 className="text-4xl md:text-6xl mb-1 md:mb-3 font-bold" id="home">Jerry Inman</h2>
             <h2 className="text-base md:text-2xl mb-3 font-medium">Full Stack Software Engineer</h2>
             <div className="flex space-x-5">
