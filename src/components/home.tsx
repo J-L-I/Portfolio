@@ -10,7 +10,6 @@ function Home() {
                 <a href="https://github.com/J-L-I" rel="noreferrer noopener" target="_blank" className="transition duration-200 hover:scale-125"><BsGithub size="2rem" color="blue"/></a>
                 <a href="https://www.linkedin.com/in/jerry-inman-7a62ab193/" rel="noreferrer noopener" target="_blank" className="transition duration-200 hover:scale-125"><BsLinkedin size="2rem" color="blue"/></a>
             </div>
-            <img />
         </div>
     )
 }
