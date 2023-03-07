@@ -4,7 +4,7 @@ import { BsGithub, BsLinkedin } from 'react-icons/bs'
 function Home() {
     return  (
         <div className="flex flex-col pt-20 pb-6 h-screen" id="home">
-            <div className="w-[700px] absolute right-0 mt-64 mr-20 font-semibold text-4xl">
+            <div className="w-[700px] absolute right-0 mt-64 mr-64 font-semibold text-4xl">
                 Welcome to my website.  This site is meant to be a brief look into my skills and me as a person.<br />
                 This is a work in progress.  Thanks for stopping by.
             </div>
