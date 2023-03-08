@@ -1,7 +1,7 @@
 export default [
     {
         title: "portfolio website",
-        imgUrl: "src/assets/my_site_img.jpg",
+        imgUrl: "/files/public_html/my_site_img.jpg",
         stack: ["React", "HTML", "TailwindCSS", "JavaScript", "TypeScript"],
         linkUrl: "http://localhost:5173/"
     },
