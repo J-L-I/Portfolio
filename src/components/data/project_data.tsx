@@ -7,7 +7,7 @@ export default [
     },
     {
         title: "CSGO Stat Display",
-        imgUrl: "src/assets/cs_display.jpg",
+        imgUrl: "/files/public_html/cs_display.jpg",
         stack: [],
         linkUrl: "http://localhost:5173/"
     },
