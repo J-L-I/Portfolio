@@ -1,19 +1,19 @@
 export default [
     {
         title: "portfolio website",
-        imgUrl: "/files/public_html/my_site_img.jpg",
+        imgUrl: "src/assets/my-site-img.jpg",
         stack: ["React", "HTML", "TailwindCSS", "JavaScript", "TypeScript"],
         linkUrl: "http://localhost:5173/"
     },
     {
         title: "CSGO Stat Display",
-        imgUrl: "/files/public_html/cs_display.jpg",
+        imgUrl: "src/assets/cs-display.jpg",
         stack: [],
         linkUrl: "http://localhost:5173/"
     },
     {
         title: "GPU Aggregator",
-        imgUrl: "src/assets/gpu_display.jpg",
+        imgUrl: "src/assets/gpu-display.jpg",
         stack: [],
         linkUrl: "http://localhost:5173/"
     }
